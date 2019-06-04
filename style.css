@@ -1,0 +1,60 @@
+body{
+	font-family: Arial;
+}
+.center{
+	width:1200px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.first{
+	height: 700px;
+	background-image: url(banner.png);
+	background-size: 100% 100%;
+}
+.second{
+	height: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.flex{
+	display: flex;
+}
+.color-white{
+	color: white;
+}
+.m-l-0{
+	margin-left: 0;
+}
+.title_h2{
+	color: #d03958;
+	font-size: 40px;
+	font-weight: 900;
+}
+
+.title_h1{
+	color: #d03958;
+	font-size: 60px;
+	font-weight: 900;
+}
+
+.link{
+	text-decoration: none;
+	color: white;
+	margin-left: 50px;
+}
+
+.ml{
+	margin-left: 600px;
+}
+.ml2{
+	margin-left: 100px;
+}
+.Travel{
+	height: 400px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 90px;
+}
+.
+
